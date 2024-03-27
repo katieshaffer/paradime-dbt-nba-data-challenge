@@ -1,6 +1,3 @@
-# [dbt™ Data Modeling Challenge - NBA Edition](https://www.paradime.io/dbt-data-modeling-challenge-nba-edition#)
-Submission by Katie Shaffer
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Data Sources](#data-sources)
