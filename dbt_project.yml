@@ -27,3 +27,11 @@ models:
       warehouse:
         +schema: warehouse
         +materialized: table
+    transformations:
+      intermediate_kshaffer:
+        +schema: intermediate_kshaffer
+        +materialized: view
+      warehouse_kshaffer:
+        +schema: warehouse_kshaffer
+        +materialized: table
+
